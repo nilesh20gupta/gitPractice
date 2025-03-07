@@ -6,6 +6,7 @@ public class locatGitView {
 		System.out.println("Hi all.. my first git in local system");
 		System.out.println("Second git commit");
 		System.out.println("checking the git diff");
+		System.out.println("checking the git diff when the file is in staging area");
 
 	}
 
